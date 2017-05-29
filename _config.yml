@@ -1,7 +1,7 @@
 #------------------------------------------------------------------------------
 # General
 #------------------------------------------------------------------------------
-name: "GRATHWOHL.ME"
+name: "grathwohl(dot)me"
 description: "A place for my radical immersions."
 language: "en"
 
@@ -30,7 +30,7 @@ permalink: /:title
 # Social sharing, comments and RSS.
 #------------------------------------------------------------------------------
 
-enable-share: true
+enable-share: false
 twitter: AndrewUnmuted
 github: agrathwohl
 
